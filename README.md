@@ -1,2 +1,2 @@
-# generatorSqlmapCustom
+# GeneratorSqlmapCustom
 生成mybatis对应的xml等文件
